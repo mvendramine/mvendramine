@@ -2,4 +2,4 @@
 
 - ⚡ Trabalho com Engenharia Pública
 - 🥇 Formado em Design Gráfico e Direito
-- 🐱‍💻 Estudando Ciência de Dados
+- 🐱‍💻 Iniciando os estudos em Ciência de Dados
