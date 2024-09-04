@@ -1,5 +1,5 @@
 ### Olá! Me chamo Murillo Vendramine
 
-- ⚡ Trabalho com Engenharia Pública
+- ⚡ Trabalho com Service Desk
 - 🥇 Formado em Design Gráfico e Direito
-- 🐱‍💻 Iniciando os estudos em Ciência de Dados
+- 🐱‍💻 Estudante de BTI e Font End
