@@ -1,5 +1,5 @@
-### Olá! Me chamo Murillo Vendramine
+### Murillo Vendramine
 
-- ⚡ Trabalho com Service Desk
+- ⚡ Analista de Suporte Pleno
 - 🥇 Formado em Design Gráfico e Direito
-- 🐱‍💻 Estudante de BTI e Font End
+- 🐱‍💻 Estudanto QA
